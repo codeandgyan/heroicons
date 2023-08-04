@@ -35,10 +35,10 @@ Both icon styles are preconfigured to be stylable by setting the `color` CSS pro
 
 ## React
 
-First, install `@heroicons/react` from npm:
+First, install `@heroicons/react` V1 from npm:
 
 ```sh
-npm install @heroicons/react
+npm install @heroicons/react@1.0.6
 ```
 
 Now each icon can be imported individually as a React component:
